@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Teal Background Circle -->
+  <circle cx="100" cy="100" r="100" fill="#037272"/>
+
+  <!-- White Location Pin Top (circle) -->
+  <circle cx="100" cy="70" r="30" fill="#FFFFFF"/>
+
+  <!-- White Location Pin Tip (triangle) -->
+  <polygon points="85,90 100,120 115,90" fill="#FFFFFF"/>
+
+  <!-- Teal "C" in the center -->
+  <text x="100" y="80" 
+        text-anchor="middle" 
+        font-size="30" 
+        fill="#037272" 
+        font-family="Arial" 
+        dy=".3em">
+    C
+  </text>
+</svg>
